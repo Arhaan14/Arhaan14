@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/arhaan_khan](https://linktr.ee/arhaan_khan)
 
-- 💬 Ask me about **Figma, Bootstrap, ReactJS, JS, SQL, Python**
+- 💬 Ask me about **Front-End Development**
 
 - 📫 How to reach me **elvispilani@gmail.com**
 
