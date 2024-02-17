@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/arhaan khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arhaan khan" height="30" width="40" /></a>
 <a href="https://instagram.com/_.arhaan_.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.arhaan_.official" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/rockstar reporter](https://www.youtube.com/channel/UC9wIoig4sQ4GVsuHqzLxHCA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rockstar reporter" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/channel/UC9wIoig4sQ4GVsuHqzLxHCA]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rockstar reporter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
